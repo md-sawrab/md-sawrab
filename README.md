@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/mdsawrab](https://www.datascienceportfol.io/mdsawrab)
+- 👨‍💻 All of my projects are available at [https://md-sawrab.github.io/](https://md-sawrab.github.io/)
 
 - 📫 How to reach me **mdsawrab02@gmail.com**
 
