@@ -4,7 +4,7 @@
 
 ### Hi there! Welcome to my Github Profile! 👋
 
-I'm Md. Sawrab, and I am passionate to explore about all things data, machine learning and artificial intelligence. Currently studying statistics at Comilla University. As a student of the Department of Statistics, I have developed a strong interest in data. Getting new insights from rows and columns of data is what fuels my curiosity.
+I'm Md. Sawrab, and I am passionate to explore about all things data, machine learning and artificial intelligence. Currently studying Statistics at Comilla University. As a student of the Department of Statistics, I have developed a strong interest in data. Getting new insights from rows and columns of data is what fuels my curiosity.
 
 ## 💻 Tech Stack
 
