@@ -40,10 +40,6 @@ As a student of the Department of Statistics, I have developed a strong interest
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## Projects
-
-🔗 Explore more in my [**Personal Projects Repository**](https://github.com/md-sawrab/Personal-Projects.git)
-
 ## 🌐 Connect
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mdsawrab@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/md-sawrab/)
