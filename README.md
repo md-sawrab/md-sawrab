@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://profile-counter.glitch.me/md-sawrab/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=md-sawrab.md-sawrab" alt="Visitor Count" />
 </div>
 
 ### Hi there! Welcome to my Github Profile! 👋
@@ -7,6 +7,8 @@
 I'm Md. Sawrab, and I am passionate about exploring all things data, machine learning, and artificial intelligence. Currently studying statistics at Comilla University.
 
 As a student of the Department of Statistics, I have developed a strong interest in data. Getting new insights from rows and columns of data is what fuels my curiosity.
+
+[Resume (PDF)](https://drive.google.com/file/d/1-bZDI6LiL80uFliupyboUuFDQAi3QLAs/view?usp=sharing)
 
 ## 💻 Tech Stack
 
@@ -39,6 +41,12 @@ As a student of the Department of Statistics, I have developed a strong interest
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## 🌐 Online Profiles
+
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/mdsawrab)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/md_sawrab)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/md_sawrab/)
 
 ## 🌐 Connect
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mdsawrab@gmail.com)
